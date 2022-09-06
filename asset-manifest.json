@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/OpenSea/static/css/main.09d757e9.css",
+    "main.js": "/OpenSea/static/js/main.fff6a332.js",
+    "static/js/787.6530fc53.chunk.js": "/OpenSea/static/js/787.6530fc53.chunk.js",
+    "static/media/hero_image.png": "/OpenSea/static/media/hero_image.f4c80778ee879230c3e9.png",
+    "static/media/logo.png": "/OpenSea/static/media/logo.83997aa461b535b856db.png",
+    "index.html": "/OpenSea/index.html",
+    "main.09d757e9.css.map": "/OpenSea/static/css/main.09d757e9.css.map",
+    "main.fff6a332.js.map": "/OpenSea/static/js/main.fff6a332.js.map",
+    "787.6530fc53.chunk.js.map": "/OpenSea/static/js/787.6530fc53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09d757e9.css",
+    "static/js/main.fff6a332.js"
+  ]
+}
